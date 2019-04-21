@@ -3,7 +3,7 @@
 import cv2 
 
   
-# capture frames from a video 
+# choose your own traffic or car videos and write the name and extension in the below line brackets between the ' '. 
 cap = cv2.VideoCapture('video5.mp4') 
   
 # Trained XML classifiers describes some features of some object we want to detect 
